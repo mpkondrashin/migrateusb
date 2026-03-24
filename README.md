@@ -125,15 +125,15 @@ In this example, **123** is your policy ID that you would use with `--policy-id 
 ### Available Regions
 
 | Code | Country | API Endpoint |
-|------|---------|--------------|
-| `us` | United States | https://workload.us-1.cloudone.trendmicro.com/api |
-| `au` | Australia | https://workload.au-1.cloudone.trendmicro.com/api |
-| `de` | Germany (EU) | https://workload.de-1.cloudone.trendmicro.com/api |
-| `sg` | Singapore | https://workload.sg-1.cloudone.trendmicro.com/api |
-| `in` | India | https://workload.in-1.cloudone.trendmicro.com/api |
-| `jp` | Japan | https://workload.jp-1.cloudone.trendmicro.com/api |
-| `ca` | Canada | https://workload.ca-1.cloudone.trendmicro.com/api |
-| `gb` | United Kingdom | https://workload.gb-1.cloudone.trendmicro.com/api |
+|------|---------|-------------|
+| `us` | United States | `https://workload.us-1.cloudone.trendmicro.com/api` |
+| `au` | Australia | `https://workload.au-1.cloudone.trendmicro.com/api` |
+| `de` | Germany (EU) | `https://workload.de-1.cloudone.trendmicro.com/api` |
+| `sg` | Singapore | `https://workload.sg-1.cloudone.trendmicro.com/api` |
+| `in` | India | `https://workload.in-1.cloudone.trendmicro.com/api` |
+| `jp` | Japan | `https://workload.jp-1.cloudone.trendmicro.com/api` |
+| `ca` | Canada | `https://workload.ca-1.cloudone.trendmicro.com/api` |
+| `gb` | United Kingdom | `https://workload.gb-1.cloudone.trendmicro.com/api` |
 
 ## Examples
 
