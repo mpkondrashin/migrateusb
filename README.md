@@ -18,6 +18,21 @@ This script automatically collects USB device exceptions from all computers in y
 - Deep Security API credentials
 - Deep Security Python SDK
 
+## Quick Start
+
+For users who want to quickly use this script without git:
+
+1. **Download the repository:**
+   - Go to https://github.com/mpkondrashin/migrateusb
+   - Click the green **Code** button
+   - Select **Download ZIP**
+   - Extract the ZIP file to a folder of your choice
+
+2. **Open a terminal/Command Prompt:**
+   - Navigate to the extracted folder using `cd path/to/migrateusb`
+
+3. **Follow the Installation steps below**
+
 ## Installation
 
 1. **Create a virtual environment:**
