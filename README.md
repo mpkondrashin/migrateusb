@@ -1,5 +1,6 @@
 # USB Device Exception Rules for Deep Security
 
+
 ![General Illustration](image.png)
 
 This script automatically collects USB device exceptions from all computers in your Deep Security environment and adds them as exception rules to a specified policy.
@@ -111,7 +112,8 @@ To get the policy ID from the Deep Security/Workload Security console:
 
 Example URL:
 ```
-https://cloudone.trendmicro.com/trend-us-1/PolicyEditor.screen?securityProfileID=123&theme=dark```
+https://cloudone.trendmicro.com/trend-us-1/PolicyEditor.screen?securityProfileID=123&theme=dark
+```
 
 In this example, **123** is your policy ID that you would use with `--policy-id 123`
 
